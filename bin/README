@@ -1,0 +1,2 @@
+docker run -v $(pwd):/go --rm golang:1.9.1-alpine3.6 go install goHttpServer
+
