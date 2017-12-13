@@ -1,4 +1,5 @@
-./goHttpServer
+/goHttpServer
 bin/goHttpServer
 pkg
 src/github.com
+.gpm
